@@ -19,13 +19,12 @@ a:hover {
 
 close your eyes ✶ take the **elxr**.
 
-## LINKS
+## ✶
 
 - [Instagram](https://www.instagram.com/elxraudio/)
-- [Spotify](INSERT_SPOTIFY_LINK_HERE)
+- [Spotify](https://open.spotify.com/artist/5miOwjvQ0V89zoESruwPpd?si=kIJjnvnqQfGFRR5ebW2Ukg)
 - [SoundCloud](INSERT_SOUNDCLOUD_LINK_HERE)
-- [YouTube](INSERT_YOUTUBE_LINK_HERE)
-- [Twitter](INSERT_TWITTER_LINK_HERE)
+- [YouTube](https://youtube.com/@elxr_audio?si=SILCHBqLbHHzzvar)
 - [Linktree](https://linktr.ee/elxraudio)
 
 Stay tuned for the latest music and updates!
