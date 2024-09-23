@@ -8,58 +8,52 @@ body {
     padding: 0;
 }
 
-/* Change the color of the default page title to white */
-h1:first-of-type {
-    color: white;
-}
-
-h2 {
-    text-align: center; /* Center your own heading */
-    margin-top: 50px;
-    margin-bottom: 5px;
-    color: white;
+/* Hide or style the default title */
+/* Replace '.site-title' or '#site-title' with the actual selector */
+.site-title, #site-title {
+    display: none; /* Or use 'color: white;' to change the color */
 }
 
 p {
-    text-align: center; /* Center the subtitle */
-    margin-top: 0; /* Remove top margin */
+    text-align: center;
+    margin-top: 0;
 }
 
 .link-container {
     display: flex;
     flex-direction: column;
-    align-items: center; /* Center buttons horizontally */
+    align-items: center;
     justify-content: center;
     margin-top: 30px;
 }
 
 a.button {
     display: block;
-    width: 120px; /* Less wide, approaching square */
+    width: 120px; /* Adjusted width */
     padding: 15px 0;
     margin: 10px 0;
-    background-color: white; /* Button background color */
-    color: black; /* Text color */
+    background-color: white;
+    color: black;
     text-align: center;
     text-decoration: none;
     font-size: 13px; /* Reduced font size by 30% */
-    font-weight: 800; /* Extra bold text */
+    font-weight: 800; /* Extra bold */
     border-radius: 0; /* Pointed edges */
     transition: background-color 0.3s;
 }
 
 a.button:hover {
-    background-color: #e0e0e0; /* Light grey hover color */
+    background-color: #e0e0e0;
 }
 </style>
 
+<!-- Removed your own 'elxr' heading to prevent duplication -->
 
-<p><span style="font-size: 10px;">close your eyes
-take the <strong>elxr</strong></span></p>
+<p><span style="font-size: 10px;">close your eyes<br>take the <strong>elxr</strong></span></p>
 
 <div class="link-container">
-  <a href="https://open.spotify.com/artist/5miOwjvQ0V89zoESruwPpd?si=kIJjnvnqQfGFRR5ebW2Ukg" class="button">Spotify</a>
-  <a href="https://music.apple.com/ca/artist/elxr/1507814996" class="button">Apple Music</a>
+  <a href="https://open.spotify.com/artist/..." class="button">Spotify</a>
+  <a href="https://music.apple.com/ca/artist/..." class="button">Apple Music</a>
   <a href="https://www.tiktok.com/@elxraudio" class="button">TikTok</a>
   <a href="https://soundcloud.com/elxr_audio" class="button">SoundCloud</a>
   <a href="https://youtube.com/@elxr_audio" class="button">YouTube</a>
