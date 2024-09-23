@@ -53,8 +53,6 @@ a.button:hover {
 }
 </style>
 
-<!-- Change your heading to h2 -->
-## elxr
 
 <p><span style="font-size: 10px;">close your eyes ✶ take the <strong>elxr</strong></span></p>
 
