@@ -17,11 +17,9 @@ a:hover {
 }
 </style>
 
-# ELXR
-
 close your eyes ✶ take the **elxr**.
 
-## Connect with ELXR
+## LINKS
 
 - [Instagram](https://www.instagram.com/elxraudio/)
 - [Spotify](INSERT_SPOTIFY_LINK_HERE)
