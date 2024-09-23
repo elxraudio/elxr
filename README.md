@@ -1,4 +1,8 @@
-<!-- Add this style block at the top of your Markdown file -->
+---
+layout: none
+title: ""
+---
+
 <style>
 body {
     background-color: black;
@@ -11,34 +15,34 @@ body {
 h1 {
     text-align: center; /* Center the heading */
     margin-top: 50px;
-    margin-bottom: 5px; /* Reduce bottom margin to eliminate extra space */
-    border: none; /* Ensure no borders around the heading */
+    margin-bottom: 5px; /* Reduce bottom margin */
 }
 
 p {
     text-align: center; /* Center the subtitle */
-    margin-top: 0; /* Remove top margin to bring it closer to the heading */
+    margin-top: 0; /* Remove top margin */
 }
 
 .link-container {
     display: flex;
     flex-direction: column;
-    align-items: center; /* Center the buttons horizontally */
+    align-items: center; /* Center buttons horizontally */
     justify-content: center;
     margin-top: 30px;
 }
 
 a.button {
     display: block;
-    width: 120px; /* Reduced width to make buttons less wide */
+    width: 120px; /* Less wide, approaching square */
     padding: 15px 0;
     margin: 10px 0;
-    background-color: white; /* Changed to white background */
-    color: black; /* Changed text color to black */
+    background-color: white; /* Button background color */
+    color: black; /* Text color */
     text-align: center;
     text-decoration: none;
-    font-size: 18px;
-    border-radius: 0; /* Removed rounded corners */
+    font-size: 13px; /* Reduced font size by 30% */
+    font-weight: 800; /* Extra bold text */
+    border-radius: 0; /* Pointed edges */
     transition: background-color 0.3s;
 }
 
@@ -54,8 +58,10 @@ a.button:hover {
 <div class="link-container">
   <a href="https://open.spotify.com/artist/5miOwjvQ0V89zoESruwPpd?si=kIJjnvnqQfGFRR5ebW2Ukg" class="button">Spotify</a>
   <a href="https://music.apple.com/ca/artist/elxr/1507814996" class="button">Apple Music</a>
-  <a href="https://www.tiktok.com/@elxraudio?_t=8pwtSoeqQlS&_r=1" class="button">TikTok</a>
-  <a href="https://m.soundcloud.com/elxr_audio" class="button">SoundCloud</a>
-  <a href="https://youtube.com/@elxr_audio?si=SILCHBqLbHHzzvar" class="button">YouTube</a>
-  <a href="https://www.instagram.com/elxr_audio?igsh=bGxyeWZ3eHUyeG01&utm_source=qr" class="button">Instagram</a>
+  <a href="https://www.tiktok.com/@elxraudio" class="button">TikTok</a>
+  <a href="https://soundcloud.com/elxr_audio" class="button">SoundCloud</a>
+  <a href="https://youtube.com/@elxr_audio" class="button">YouTube</a>
+  <a href="https://www.instagram.com/elxr_audio" class="button">Instagram</a>
 </div>
+
+<p style="text-align: center; font-size: 13px; margin-top: 10px;">✶</p>
