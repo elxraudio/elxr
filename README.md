@@ -4,9 +4,6 @@
 
 <span style="font-size: 10px;">close your eyes ✶ take the **elxr**</span>
 
-close your eyes ✶ take the **elxr**
-
-
 - [Spotify](https://open.spotify.com/artist/5miOwjvQ0V89zoESruwPpd?si=kIJjnvnqQfGFRR5ebW2Ukg)
 - [Apple Music](https://music.apple.com/ca/artist/elxr/1507814996)
 - [TikTok](https://www.tiktok.com/@elxraudio?_t=8pwtSoeqQlS&_r=1)
