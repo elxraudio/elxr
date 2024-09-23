@@ -54,7 +54,8 @@ a.button:hover {
 </style>
 
 
-<p><span style="font-size: 10px;">close your eyes ✶ take the <strong>elxr</strong></span></p>
+<p><span style="font-size: 10px;">close your eyes
+take the <strong>elxr</strong></span></p>
 
 <div class="link-container">
   <a href="https://open.spotify.com/artist/5miOwjvQ0V89zoESruwPpd?si=kIJjnvnqQfGFRR5ebW2Ukg" class="button">Spotify</a>
