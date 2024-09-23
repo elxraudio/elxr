@@ -11,10 +11,13 @@ body {
 h1 {
     text-align: center; /* Center the heading */
     margin-top: 50px;
+    margin-bottom: 5px; /* Reduce bottom margin to eliminate extra space */
+    border: none; /* Ensure no borders around the heading */
 }
 
 p {
     text-align: center; /* Center the subtitle */
+    margin-top: 0; /* Remove top margin to bring it closer to the heading */
 }
 
 .link-container {
@@ -27,20 +30,20 @@ p {
 
 a.button {
     display: block;
-    width: 200px; /* Adjust the width as needed */
+    width: 120px; /* Reduced width to make buttons less wide */
     padding: 15px 0;
     margin: 10px 0;
-    background-color: #1DB954; /* Button background color */
-    color: white;
+    background-color: white; /* Changed to white background */
+    color: black; /* Changed text color to black */
     text-align: center;
     text-decoration: none;
     font-size: 18px;
-    border-radius: 10px;
+    border-radius: 0; /* Removed rounded corners */
     transition: background-color 0.3s;
 }
 
 a.button:hover {
-    background-color: #1ed760; /* Button hover color */
+    background-color: #e0e0e0; /* Light grey hover color */
 }
 </style>
 
