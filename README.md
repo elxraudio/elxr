@@ -1,5 +1,5 @@
 # elxr
-close your eyes ✶ take the elxr
+
 
 <!-- Add this style block to set the background and text color -->
 <style>
@@ -19,7 +19,7 @@ a:hover {
 
 # ELXR
 
-Welcome to the official links of **ELXR**.
+close your eyes ✶ take the elxr **ELXR**.
 
 ## Connect with ELXR
 
