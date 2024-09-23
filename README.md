@@ -1,2 +1,2 @@
-# elxr
-close your eyes. take the elxr
+# ELXR
+close your eyes ✶ take the elxr
