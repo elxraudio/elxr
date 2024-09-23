@@ -1,5 +1,4 @@
-
-
+<!-- Existing style block with adjustments -->
 <style>
 body {
     background-color: black;
@@ -9,10 +8,16 @@ body {
     padding: 0;
 }
 
-h1 {
-    text-align: center; /* Center the heading */
+/* Change the color of the default page title to white */
+h1:first-of-type {
+    color: white;
+}
+
+h2 {
+    text-align: center; /* Center your own heading */
     margin-top: 50px;
-    margin-bottom: 5px; /* Reduce bottom margin */
+    margin-bottom: 5px;
+    color: white;
 }
 
 p {
@@ -48,7 +53,8 @@ a.button:hover {
 }
 </style>
 
-# elxr
+<!-- Change your heading to h2 -->
+## elxr
 
 <p><span style="font-size: 10px;">close your eyes ✶ take the <strong>elxr</strong></span></p>
 
@@ -61,4 +67,5 @@ a.button:hover {
   <a href="https://www.instagram.com/elxr_audio" class="button">Instagram</a>
 </div>
 
+<!-- Add the star below the links -->
 <p style="text-align: center; font-size: 13px; margin-top: 10px;">✶</p>
