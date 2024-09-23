@@ -1,7 +1,4 @@
----
-layout: none
-title: ""
----
+
 
 <style>
 body {
