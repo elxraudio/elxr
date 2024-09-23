@@ -19,7 +19,7 @@ a:hover {
 
 # ELXR
 
-close your eyes ✶ take the elxr **ELXR**.
+close your eyes ✶ take the **elxr**.
 
 ## Connect with ELXR
 
